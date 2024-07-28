@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makijiam&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makijiam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: [https://makijiam.github.io/](https://makijiam.github.io/)
 
